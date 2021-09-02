@@ -717,7 +717,7 @@
 		-webkit-overflow-scrolling: touch;
 		position: fixed;
 		top: 0;
-		width: 22.5em;
+		width: 32.5em;
 		height: 100%;
 		background: #fff;
 		outline: 0;
@@ -988,7 +988,7 @@
 		transition: opacity 0.75s ease, width 0.75s ease;
 		position: absolute;
 		top: 0;
-		width: calc(100% - 22.5em);
+		width: calc(100% - 32.5em);
 		height: 100%;
 		left: 0;
 	}
