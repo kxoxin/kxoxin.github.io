@@ -149,7 +149,7 @@
 	}
 
 	p {
-		margin: 0 0 1.25em 0;
+		margin: 0.25em 0 1.25em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -811,7 +811,7 @@
 /* Header */
 
 	#header {
-		padding: 3em 2.25em 1.75em 2.25em ;
+		padding: 1em 2.25em 1.75em 2.25em ;
 	}
 
 		#header h1 {
